@@ -14,7 +14,7 @@ This project analyzes monthly sales data using Microsoft Excel to identify trend
 - Trend analysis using line charts
 - Sales comparison using column charts
 
-- ## 📊 Visual Insights
+ ## 📊 Visual Insights
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](monthly_sales_trend.png)
