@@ -14,6 +14,14 @@ This project analyzes monthly sales data using Microsoft Excel to identify trend
 - Trend analysis using line charts
 - Sales comparison using column charts
 
+- ## 📊 Visual Insights
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
+
+### Sales Comparison
+![Sales Comparison](sales_by_month.png)
+
 ## Key Insights
 - Sales increase significantly from August onwards
 - Highest sales observed in the last quarter (October–December)
